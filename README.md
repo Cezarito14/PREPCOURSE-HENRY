@@ -1,2 +1,3 @@
 # Prepcourse-henry
-este es un repositorio de prueba de henry modulo 2
+FERREYRA MARCELO    
+este proyecto es una prueba de como crear un repositorio en github, clonarlo y guardalo en mi repositorio local (mi computadora)
